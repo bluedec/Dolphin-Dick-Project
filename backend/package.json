@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "ddp",
+  "version": "1.0.0",
+  "description": "ddp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluedec/Dolphin-Dick-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluedec/Dolphin-Dick-Project/issues"
+  },
+  "homepage": "https://github.com/bluedec/Dolphin-Dick-Project#readme"
+}
