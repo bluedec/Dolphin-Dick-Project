@@ -10,6 +10,6 @@ async function getDelfines() {
       return "hola Lucio como estas";
   
     } catch (error) {
-      console.log("Error obteniendo toods los delfines " + error);
+      console.log("Error obteniendo todos los delfines " + error);
     }
   }
