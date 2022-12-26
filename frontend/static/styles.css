@@ -1,0 +1,14 @@
+.title {
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+
+#background {
+    width: 80%;
+    height: 900px;
+    margin: auto;
+    border-radius: 20px;
+    background: linear-gradient(#78b9e2, #a6ade5);
+}
