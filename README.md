@@ -1,4 +1,4 @@
-Dolphin-Type-Project
+<h1> Dolphin-Type-Project </h1>
 The Dolphin-Type-Project is a fun and interactive way to discover which type of dolphin best matches your personality. This project is based on a survey that asks you several questions about your personality and preferences. After completing the survey, you will be given a result that indicates which type of dolphin you are most like.
 
 Getting Started
