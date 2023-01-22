@@ -1,26 +1,13 @@
 <h1> Dolphin-Type-Project </h1>
 The Dolphin-Type-Project is a fun and interactive way to discover which type of dolphin best matches your personality. This project is based on a survey that asks you several questions about your personality and preferences. After completing the survey, you will be given a result that indicates which type of dolphin you are most like.
 
-Getting Started
-To run the project, you will need to have Python 3.7 or higher installed on your computer. Additionally, you will need to install the following dependencies:
+<h2>Getting Started</h2>
+To run the project, I don't know what you would need since it's not finished yet... come back soon!
 
-Flask
-Pandas
-Numpy
-You can install these dependencies by running the following command:
-
-Copy code
-pip install flask pandas numpy
-Once you have installed the dependencies, you can run the project by navigating to the project directory in the terminal and running the following command:
-
-Copy code
-python app.py
-This will start a local development server on your computer. You can access the project by navigating to http://localhost:5000 in your web browser.
-
-Using the project
+<h2>Using the project</h2>
 Once you have the project up and running, you can take the survey by clicking on the "Take the Survey" button on the homepage. The survey will consist of several questions about your personality and preferences. After you complete the survey, you will be given a result that indicates which type of dolphin you are most like.
 
-Contributing
+<h2>Contributing</h2>
 If you would like to contribute to the project, please follow these guidelines:
 
 Follow the code of conduct at all times
